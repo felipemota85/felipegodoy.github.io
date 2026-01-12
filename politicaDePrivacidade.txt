@@ -1,0 +1,31 @@
+POLÍTICA DE PRIVACIDADE - ASTRODODIA
+Última atualização: 12 de Janeiro de 2026
+
+1. APRESENTAÇÃO
+A ma8s ("nós") desenvolveu o aplicativo AstroDoDia como um serviço gratuito. Este documento informa os usuários sobre nossas políticas relativas à coleta, uso e divulgação de informações.
+
+2. COLETA E USO DE INFORMAÇÕES
+Para uma melhor experiência, ao usar nosso serviço, não exigimos que você forneça qualquer informação de identificação pessoal. 
+- O aplicativo processa a escolha do seu signo localmente.
+- Não coletamos nomes, e-mails ou números de telefone.
+
+3. DADOS DE LOG E COOKIES
+Informamos que, sempre que você utiliza o AstroDoDia, em caso de erro no aplicativo, o Google Play Console pode coletar dados e informações (por meio de produtos de terceiros) em seu telefone chamados Log Data para fins de diagnóstico.
+
+4. PRESTADORES DE SERVIÇOS (ANÚNCIOS)
+Utilizamos o Google AdMob para exibir anúncios e financiar a manutenção do projeto. O Google pode coletar identificadores de publicidade do seu dispositivo para servir anúncios relevantes.
+Link para a política de privacidade do provedor de serviços terceirizado usado pelo aplicativo:
+- Google Play Services: https://www.google.com/policies/privacy/
+- AdMob: https://support.google.com/admob/answer/6128543
+
+5. PERMISSÕES
+O aplicativo solicita apenas permissão de acesso à internet para carregar os anúncios do AdMob.
+
+6. SEGURANÇA
+Valorizamos sua confiança em nos fornecer acesso a dados não sensíveis, por isso nos esforçamos para usar meios comercialmente aceitáveis de protegê-los.
+
+7. ALTERAÇÕES A ESTA POLÍTICA
+Podemos atualizar nossa Política de Privacidade periodicamente. Assim, aconselhamos que você revise este documento para quaisquer alterações.
+
+8. CONTATO
+Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar via e-mail.
